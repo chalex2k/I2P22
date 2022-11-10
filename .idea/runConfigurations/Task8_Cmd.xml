@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Task8_Cmd" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="l6.task8_sample.cmd.Program" />
+    <module name="I2P22" />
+    <option name="PROGRAM_PARAMETERS" value="files/task8/input.txt files/task8/output.txt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="l6.task8_sample.cmd.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
